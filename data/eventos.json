@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13T11:53:36+01:00",
+  "updated_at": "2026-11-14T09:10:00+01:00",
   "events": [
     {
       "id": "ii-encuentro-mujeres-tecnologia-2026-sedia",
@@ -14,7 +14,22 @@
       "scope": "espana",
       "event_type": "jornada",
       "language": "es",
-      "verified_at": "2026-11-13T11:53:36+01:00"
+      "verified_at": "2026-11-14T09:10:00+01:00"
+    },
+    {
+      "id": "digital-women-approved-2026-instituto-mas-mujeres",
+      "name": "Formación Digital Women Approved",
+      "start_date": "2026-11-24",
+      "end_date": "2026-12-09",
+      "deadline": null,
+      "location": "Online (Catalunya)",
+      "mode": "online",
+      "organizer": "Instituto Más Mujeres",
+      "official_url": "https://institutomasmujeres.com/ca/formacion-digital-women-approved/",
+      "scope": "catalunya",
+      "event_type": "taller",
+      "language": "ca",
+      "verified_at": "2026-11-14T09:10:00+01:00"
     },
     {
       "id": "women-in-it-day-2026-future-collars",
@@ -29,7 +44,7 @@
       "scope": "online",
       "event_type": "congreso",
       "language": "en",
-      "verified_at": "2026-11-13T11:53:36+01:00"
+      "verified_at": "2026-11-14T09:10:00+01:00"
     },
     {
       "id": "european-prize-women-innovators-2027-eic-eit",
@@ -44,7 +59,22 @@
       "scope": "internacional",
       "event_type": "premio",
       "language": "multilingüe",
-      "verified_at": "2026-11-13T11:53:36+01:00"
+      "verified_at": "2026-11-14T09:10:00+01:00"
+    },
+    {
+      "id": "women-tech-ai-awards-2026-womentech-network",
+      "name": "Women in Tech & AI Awards 2026",
+      "start_date": "2026-12-03",
+      "end_date": "2026-12-03",
+      "deadline": null,
+      "location": "Online",
+      "mode": "online",
+      "organizer": "WomenTech Network",
+      "official_url": "https://www.womentech.net/women-in-tech-ai-awards",
+      "scope": "online",
+      "event_type": "premio",
+      "language": "en",
+      "verified_at": "2026-11-14T09:10:00+01:00"
     },
     {
       "id": "rockit-women-technology-conference-2026",
@@ -59,7 +89,22 @@
       "scope": "internacional",
       "event_type": "congreso",
       "language": "en",
-      "verified_at": "2026-11-13T11:53:36+01:00"
+      "verified_at": "2026-11-14T09:10:00+01:00"
+    },
+    {
+      "id": "own-your-influence-2026-womentech-network",
+      "name": "Own Your Influence: Women Leading Technology, Transformation & Change",
+      "start_date": "2026-12-10",
+      "end_date": "2026-12-10",
+      "deadline": null,
+      "location": "Online",
+      "mode": "online",
+      "organizer": "WomenTech Network",
+      "official_url": "https://www.womentech.net/women-in-tech-global",
+      "scope": "online",
+      "event_type": "otro",
+      "language": "en",
+      "verified_at": "2026-11-14T09:10:00+01:00"
     },
     {
       "id": "feria-aemener-carreras-stem-2027",
@@ -74,7 +119,7 @@
       "scope": "espana",
       "event_type": "otro",
       "language": "es",
-      "verified_at": "2026-11-13T11:53:36+01:00"
+      "verified_at": "2026-11-14T09:10:00+01:00"
     },
     {
       "id": "women-tech-software-development-2027-skillingsa",
@@ -89,7 +134,7 @@
       "scope": "internacional",
       "event_type": "congreso",
       "language": "en",
-      "verified_at": "2026-11-13T11:53:36+01:00"
+      "verified_at": "2026-11-14T09:10:00+01:00"
     },
     {
       "id": "catalonia-femhack-2027-mwcapital",
@@ -100,11 +145,11 @@
       "location": "Fira Montjuïc, Hall 8, Barcelona, Catalunya, España",
       "mode": "presencial",
       "organizer": "Mobile World Capital Barcelona",
-      "official_url": "https://dr.talentarena.tech/ca/competicions-2027-2/",
+      "official_url": "https://dr.talentarena.tech/competitions-2027/",
       "scope": "catalunya",
       "event_type": "hackaton",
       "language": null,
-      "verified_at": "2026-11-13T11:53:36+01:00"
+      "verified_at": "2026-11-14T09:10:00+01:00"
     },
     {
       "id": "empower-women-tech-awards-2027",
@@ -119,7 +164,7 @@
       "scope": "internacional",
       "event_type": "premio",
       "language": "en",
-      "verified_at": "2026-11-13T11:53:36+01:00"
+      "verified_at": "2026-11-14T09:10:00+01:00"
     },
     {
       "id": "wicys-in-person-conference-2027",
@@ -134,7 +179,7 @@
       "scope": "internacional",
       "event_type": "congreso",
       "language": "en",
-      "verified_at": "2026-11-13T11:53:36+01:00"
+      "verified_at": "2026-11-14T09:10:00+01:00"
     },
     {
       "id": "wicys-virtual-conference-2027",
@@ -149,7 +194,7 @@
       "scope": "online",
       "event_type": "congreso",
       "language": "en",
-      "verified_at": "2026-11-13T11:53:36+01:00"
+      "verified_at": "2026-11-14T09:10:00+01:00"
     },
     {
       "id": "women-tech-global-conference-2027",
@@ -164,7 +209,7 @@
       "scope": "internacional",
       "event_type": "congreso",
       "language": "en",
-      "verified_at": "2026-11-13T11:53:36+01:00"
+      "verified_at": "2026-11-14T09:10:00+01:00"
     },
     {
       "id": "young-women-technology-conference-winnipeg-2027",
@@ -179,7 +224,7 @@
       "scope": "internacional",
       "event_type": "congreso",
       "language": "en",
-      "verified_at": "2026-11-13T11:53:36+01:00"
+      "verified_at": "2026-11-14T09:10:00+01:00"
     },
     {
       "id": "perspektywy-women-tech-summit-2027",
@@ -194,7 +239,7 @@
       "scope": "internacional",
       "event_type": "congreso",
       "language": "en",
-      "verified_at": "2026-11-13T11:53:36+01:00"
+      "verified_at": "2026-11-14T09:10:00+01:00"
     },
     {
       "id": "we27-swe-annual-conference",
@@ -209,7 +254,7 @@
       "scope": "internacional",
       "event_type": "congreso",
       "language": "en",
-      "verified_at": "2026-11-13T11:53:36+01:00"
+      "verified_at": "2026-11-14T09:10:00+01:00"
     }
   ]
 }
