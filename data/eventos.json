@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15T09:10:00+01:00",
+  "updated_at": "2026-11-16T09:10:00+01:00",
   "events": [
     {
       "id": "claude-build-workshop-women-madrid-2026",
@@ -32,6 +32,21 @@
       "verified_at": "2026-11-14T09:10:00+01:00"
     },
     {
+      "id": "la-barrera-no-era-la-ia-wtm-barcelona-2026",
+      "name": "La barrera no era la IA: Emprender con IA, desde dentro y desde fuera",
+      "start_date": "2026-11-18",
+      "end_date": "2026-11-18",
+      "deadline": null,
+      "location": "Capitole Consulting, Barcelona, Catalunya, España",
+      "mode": "presencial",
+      "organizer": "Women Techmakers Barcelona y Capitole",
+      "official_url": "https://luma.com/gbhrf26w",
+      "scope": "catalunya",
+      "event_type": "jornada",
+      "language": "es",
+      "verified_at": "2026-11-16T09:10:00+01:00"
+    },
+    {
       "id": "step4ward-bcn-girls-tech-beers-2026",
       "name": "Step4ward BCN: Girls, Tech and Beers",
       "start_date": "2026-11-18",
@@ -47,6 +62,66 @@
       "verified_at": "2026-11-15T09:10:00+01:00"
     },
     {
+      "id": "ciencia-tecnologia-femenino-espaitec-2026",
+      "name": "9ª edición Ciencia y Tecnología en Femenino",
+      "start_date": "2026-11-19",
+      "end_date": "2026-11-19",
+      "deadline": null,
+      "location": "Espaitec, Universitat Jaume I, Castellón de la Plana, España",
+      "mode": "presencial",
+      "organizer": "Espaitec y Asociación de Parques Científicos y Tecnológicos de España",
+      "official_url": "https://espaitec.uji.es/eventos/9a-edicion-ciencia-y-tecnologia-en-femenino/",
+      "scope": "espana",
+      "event_type": "jornada",
+      "language": "es",
+      "verified_at": "2026-11-16T09:10:00+01:00"
+    },
+    {
+      "id": "claude-linkedin-workshop-cowork-barcelona-2026",
+      "name": "Barcelona | (Women in Tech) Workshop & Cowork - Claude for LinkedIn",
+      "start_date": "2026-11-19",
+      "end_date": "2026-11-19",
+      "deadline": null,
+      "location": "Barcelona, Catalunya, España",
+      "mode": "presencial",
+      "organizer": "Claude Community Events",
+      "official_url": "https://luma.com/claude-2ugt",
+      "scope": "catalunya",
+      "event_type": "taller",
+      "language": "en",
+      "verified_at": "2026-11-16T09:10:00+01:00"
+    },
+    {
+      "id": "emlhis-campus-42-barcelona-stem-2026",
+      "name": "EMLHIS Mujeres STEM · Campus 42 Barcelona",
+      "start_date": "2026-11-19",
+      "end_date": "2026-11-19",
+      "deadline": null,
+      "location": "42 Barcelona, Barcelona, Catalunya, España",
+      "mode": "presencial",
+      "organizer": "Encuentros de Mujeres Líderes Hispanas (EMLHIS)",
+      "official_url": "https://mujereslidereshispanas.com/encuentros/",
+      "scope": "catalunya",
+      "event_type": "taller",
+      "language": "es",
+      "verified_at": "2026-11-16T09:10:00+01:00"
+    },
+    {
+      "id": "women-of-saas-barcelona-hub-opening-2026",
+      "name": "Women of SaaS Barcelona – Hub Opening Event",
+      "start_date": "2026-11-19",
+      "end_date": "2026-11-19",
+      "deadline": null,
+      "location": "Spoki office, Barcelona, Catalunya, España",
+      "mode": "presencial",
+      "organizer": "Women of SaaS",
+      "official_url": "https://luma.com/wzo6zt5t",
+      "scope": "catalunya",
+      "event_type": "otro",
+      "language": "en",
+      "verified_at": "2026-11-16T09:10:00+01:00"
+    },
+    {
       "id": "autodefensa-digital-feminista-tarrega-2026-11-21",
       "name": "Taller d'autodefensa digital feminista",
       "start_date": "2026-11-21",
@@ -60,6 +135,21 @@
       "event_type": "taller",
       "language": "ca",
       "verified_at": "2026-11-15T09:10:00+01:00"
+    },
+    {
+      "id": "wiset-international-conference-2026-iem",
+      "name": "4th International Conference for Women in Science, Engineering & Technology (WiSET 2026)",
+      "start_date": "2026-11-23",
+      "end_date": "2026-11-25",
+      "deadline": null,
+      "location": "Casuarina @ Meru Hotel, Ipoh, Perak, Malasia",
+      "mode": "presencial",
+      "organizer": "Institution of Engineers Malaysia y IEM Women Engineers",
+      "official_url": "https://www.myiem.org.my/news/newsdetails.aspx?id=978",
+      "scope": "internacional",
+      "event_type": "congreso",
+      "language": "en",
+      "verified_at": "2026-11-16T09:10:00+01:00"
     },
     {
       "id": "ai-show-tell-women-tech-sheai-2-2026",
@@ -90,6 +180,21 @@
       "event_type": "taller",
       "language": "ca",
       "verified_at": "2026-11-14T09:10:00+01:00"
+    },
+    {
+      "id": "tech-talk-data-products-security-wtm-barcelona-2026",
+      "name": "Tech Talk: Data Products & Data Security",
+      "start_date": "2026-11-24",
+      "end_date": "2026-11-24",
+      "deadline": null,
+      "location": "Le Wagon Barcelona, Barcelona, Catalunya, España",
+      "mode": "presencial",
+      "organizer": "Women Techmakers Barcelona y Le Wagon Barcelona",
+      "official_url": "https://luma.com/aia4z5b4",
+      "scope": "catalunya",
+      "event_type": "jornada",
+      "language": "en",
+      "verified_at": "2026-11-16T09:10:00+01:00"
     },
     {
       "id": "women4aisafety-first-event-2026",
@@ -167,6 +272,21 @@
       "verified_at": "2026-11-14T09:10:00+01:00"
     },
     {
+      "id": "women-tech-excellence-awards-2026",
+      "name": "Women in Tech Excellence Awards 2026",
+      "start_date": "2026-11-26",
+      "end_date": "2026-11-26",
+      "deadline": null,
+      "location": "London Hilton on Park Lane, Londres, Reino Unido",
+      "mode": "presencial",
+      "organizer": "The Channel Company",
+      "official_url": "https://womenintechexcellence.co.uk/womenintechexcellenceawards/en/page/on-the-night",
+      "scope": "internacional",
+      "event_type": "premio",
+      "language": "en",
+      "verified_at": "2026-11-16T09:10:00+01:00"
+    },
+    {
       "id": "european-prize-women-innovators-2027-eic-eit",
       "name": "European Prize for Women Innovators 2027",
       "start_date": "2026-09-02",
@@ -195,6 +315,36 @@
       "event_type": "premio",
       "language": "en",
       "verified_at": "2026-11-14T09:10:00+01:00"
+    },
+    {
+      "id": "women-in-tech-global-awards-2026",
+      "name": "Women in Tech Global Awards 2026",
+      "start_date": "2026-12-03",
+      "end_date": "2026-12-03",
+      "deadline": null,
+      "location": "París, Francia",
+      "mode": "presencial",
+      "organizer": "Women in Tech Global",
+      "official_url": "https://womenintech-awards.com/",
+      "scope": "internacional",
+      "event_type": "premio",
+      "language": "en",
+      "verified_at": "2026-11-16T09:10:00+01:00"
+    },
+    {
+      "id": "n8n-automateher-barcelona-2026",
+      "name": "n8n Barcelona: AutomateHER Workshop",
+      "start_date": "2026-12-07",
+      "end_date": "2026-12-07",
+      "deadline": null,
+      "location": "Itnig Coworking, Barcelona, Catalunya, España",
+      "mode": "presencial",
+      "organizer": "n8n Community Events y Itnig",
+      "official_url": "https://luma.com/n8n-hr4u",
+      "scope": "catalunya",
+      "event_type": "taller",
+      "language": "en",
+      "verified_at": "2026-11-16T09:10:00+01:00"
     },
     {
       "id": "rockit-women-technology-conference-2026",
@@ -300,6 +450,21 @@
       "event_type": "congreso",
       "language": "en",
       "verified_at": "2026-11-14T09:10:00+01:00"
+    },
+    {
+      "id": "women-in-tech-fest-sydney-2027",
+      "name": "Women in Tech Fest 2027",
+      "start_date": "2027-02-23",
+      "end_date": "2027-02-25",
+      "deadline": null,
+      "location": "Watersedge at Campbell's Stores, Sídney, Australia",
+      "mode": "presencial",
+      "organizer": "Quest Events",
+      "official_url": "https://www.womenintechfest.com.au/",
+      "scope": "internacional",
+      "event_type": "congreso",
+      "language": "en",
+      "verified_at": "2026-11-16T09:10:00+01:00"
     },
     {
       "id": "catalonia-femhack-2027-mwcapital",
