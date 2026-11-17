@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16T09:10:00+01:00",
+  "updated_at": "2026-11-17T09:10:00+01:00",
   "events": [
     {
       "id": "claude-build-workshop-women-madrid-2026",
@@ -302,6 +302,51 @@
       "verified_at": "2026-11-14T09:10:00+01:00"
     },
     {
+      "id": "london-witchmas-women-tech-cyber-2026-12-01",
+      "name": "London WiTCHMAS - Women in Tech & Cyber",
+      "start_date": "2026-12-01",
+      "end_date": "2026-12-01",
+      "deadline": null,
+      "location": "79-81 Paul Street, Londres, Reino Unido",
+      "mode": "presencial",
+      "organizer": "Women in Tech and Cyber Hub (WiTCH)",
+      "official_url": "https://luma.com/y80dxwwu",
+      "scope": "internacional",
+      "event_type": "otro",
+      "language": "en",
+      "verified_at": "2026-11-17T09:10:00+01:00"
+    },
+    {
+      "id": "spec-shift-self-salesforce-barcelona-2026-12-02",
+      "name": "Spec, Shift & Self: Building, Changing and Believing in the AI Era",
+      "start_date": "2026-12-02",
+      "end_date": "2026-12-02",
+      "deadline": null,
+      "location": "Aticco Diagrame, Barcelona, Catalunya, España",
+      "mode": "presencial",
+      "organizer": "Salesforce Women in Tech Group, Barcelona",
+      "official_url": "https://trailblazercommunitygroups.com/events/details/salesforce-salesforce-women-in-tech-group-barcelona-spain-presents-spec-shift-amp-self-building-changing-and-believing-in-the-ai-era/",
+      "scope": "catalunya",
+      "event_type": "jornada",
+      "language": null,
+      "verified_at": "2026-11-17T09:10:00+01:00"
+    },
+    {
+      "id": "speed-networking-womantech-barcelona-2026-12-02",
+      "name": "Speed Networking, Find Your Next Collaborator/Mentor/Friend for Woman in Tech",
+      "start_date": "2026-12-02",
+      "end_date": "2026-12-02",
+      "deadline": null,
+      "location": "Doctoralia, Barcelona, Catalunya, España",
+      "mode": "presencial",
+      "organizer": "womanTech Barcelona",
+      "official_url": "https://www.meetup.com/woman-in-technogy-barcelona/events/315794325/",
+      "scope": "catalunya",
+      "event_type": "otro",
+      "language": null,
+      "verified_at": "2026-11-17T09:10:00+01:00"
+    },
+    {
       "id": "women-tech-ai-awards-2026-womentech-network",
       "name": "Women in Tech & AI Awards 2026",
       "start_date": "2026-12-03",
@@ -360,6 +405,21 @@
       "event_type": "congreso",
       "language": "en",
       "verified_at": "2026-11-14T09:10:00+01:00"
+    },
+    {
+      "id": "witch-founders-club-2026-12-08",
+      "name": "The WiTCH Founders Club",
+      "start_date": "2026-12-08",
+      "end_date": "2026-12-08",
+      "deadline": null,
+      "location": "Online",
+      "mode": "online",
+      "organizer": "Women in Tech and Cyber Hub (WiTCH)",
+      "official_url": "https://luma.com/h0k79mya",
+      "scope": "online",
+      "event_type": "otro",
+      "language": "en",
+      "verified_at": "2026-11-17T09:10:00+01:00"
     },
     {
       "id": "own-your-influence-2026-womentech-network",
