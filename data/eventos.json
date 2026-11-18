@@ -1,21 +1,6 @@
 {
-  "updated_at": "2026-11-17T09:10:00+01:00",
+  "updated_at": "2026-11-18T09:10:00+01:00",
   "events": [
-    {
-      "id": "claude-build-workshop-women-madrid-2026",
-      "name": "Madrid | Claude Build Workshop: Women",
-      "start_date": "2026-11-17",
-      "end_date": "2026-11-17",
-      "deadline": null,
-      "location": "MIL Madrid Innovation Lab, Madrid, España",
-      "mode": "presencial",
-      "organizer": "Claude Community Madrid y Women in Tech",
-      "official_url": "https://luma.com/claude-m948",
-      "scope": "espana",
-      "event_type": "taller",
-      "language": "es",
-      "verified_at": "2026-11-15T09:10:00+01:00"
-    },
     {
       "id": "ii-encuentro-mujeres-tecnologia-2026-sedia",
       "name": "II Encuentro Mujeres y Tecnología",
@@ -450,6 +435,21 @@
       "event_type": "jornada",
       "language": "es",
       "verified_at": "2026-11-15T09:10:00+01:00"
+    },
+    {
+      "id": "mujer-ia-resultados-aprendizajes-2026-fundacion-santa-maria-la-real",
+      "name": "La IA como herramienta de inclusión: Mujer IA comparte sus resultados y aprendizajes",
+      "start_date": "2026-12-14",
+      "end_date": "2026-12-14",
+      "deadline": null,
+      "location": "Online (España)",
+      "mode": "online",
+      "organizer": "Fundación Santa María la Real",
+      "official_url": "https://areaempleofsmlr.es/2026/11/13/la-ia-como-herramienta-de-inclusion-mujer-ia-comparte-el-14-de-diciembre-sus-resultados-y-aprendizajes/",
+      "scope": "espana",
+      "event_type": "jornada",
+      "language": null,
+      "verified_at": "2026-11-18T09:10:00+01:00"
     },
     {
       "id": "grace-hopper-celebration-india-2027",
