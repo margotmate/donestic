@@ -1,51 +1,6 @@
 {
-  "updated_at": "2026-11-18T09:10:00+01:00",
+  "updated_at": "2026-11-19T09:11:31+01:00",
   "events": [
-    {
-      "id": "ii-encuentro-mujeres-tecnologia-2026-sedia",
-      "name": "II Encuentro Mujeres y Tecnología",
-      "start_date": "2026-11-18",
-      "end_date": "2026-11-18",
-      "deadline": "2026-10-18",
-      "location": "Madrid, España",
-      "mode": "presencial",
-      "organizer": "Secretaría de Estado de Digitalización e Inteligencia Artificial",
-      "official_url": "https://generaciond.gob.es/ii-encuentro-mujeres-y-tecnologia-6432",
-      "scope": "espana",
-      "event_type": "jornada",
-      "language": "es",
-      "verified_at": "2026-11-14T09:10:00+01:00"
-    },
-    {
-      "id": "la-barrera-no-era-la-ia-wtm-barcelona-2026",
-      "name": "La barrera no era la IA: Emprender con IA, desde dentro y desde fuera",
-      "start_date": "2026-11-18",
-      "end_date": "2026-11-18",
-      "deadline": null,
-      "location": "Capitole Consulting, Barcelona, Catalunya, España",
-      "mode": "presencial",
-      "organizer": "Women Techmakers Barcelona y Capitole",
-      "official_url": "https://luma.com/gbhrf26w",
-      "scope": "catalunya",
-      "event_type": "jornada",
-      "language": "es",
-      "verified_at": "2026-11-16T09:10:00+01:00"
-    },
-    {
-      "id": "step4ward-bcn-girls-tech-beers-2026",
-      "name": "Step4ward BCN: Girls, Tech and Beers",
-      "start_date": "2026-11-18",
-      "end_date": "2026-11-18",
-      "deadline": null,
-      "location": "El Xiquet, Barcelona, Catalunya, España",
-      "mode": "presencial",
-      "organizer": "Mentoras Step4ward",
-      "official_url": "https://www.eventbrite.es/e/step4ward-bcn-girls-tech-and-beers-no-vuelvas-a-ir-sola-a-un-evento-tickets-2004073277120",
-      "scope": "catalunya",
-      "event_type": "otro",
-      "language": "es",
-      "verified_at": "2026-11-15T09:10:00+01:00"
-    },
     {
       "id": "ciencia-tecnologia-femenino-espaitec-2026",
       "name": "9ª edición Ciencia y Tecnología en Femenino",
@@ -105,6 +60,21 @@
       "event_type": "otro",
       "language": "en",
       "verified_at": "2026-11-16T09:10:00+01:00"
+    },
+    {
+      "id": "mujeres-talento-ia-femcoders-barcelona-2026-11-20",
+      "name": "Mujeres, talento e IA // Women, Talent and AI",
+      "start_date": "2026-11-20",
+      "end_date": "2026-11-20",
+      "deadline": null,
+      "location": "AI Campus Barcelona, Barcelona, Catalunya, España",
+      "mode": "presencial",
+      "organizer": "FemCoders Club, Vonage y AI Campus Barcelona",
+      "official_url": "https://www.aicampus.barcelona/es/program/mujeres-talento-e-ia-women-talent-and-ai-2026-11-20",
+      "scope": "catalunya",
+      "event_type": "jornada",
+      "language": null,
+      "verified_at": "2026-11-19T09:11:31+01:00"
     },
     {
       "id": "autodefensa-digital-feminista-tarrega-2026-11-21",
@@ -272,6 +242,21 @@
       "verified_at": "2026-11-16T09:10:00+01:00"
     },
     {
+      "id": "soc-cadet-yes-we-tech-malaga-2026-11-27",
+      "name": "Taller YWT - SOC Cadet: tu primera alerta en ciberseguridad",
+      "start_date": "2026-11-27",
+      "end_date": "2026-11-27",
+      "deadline": null,
+      "location": "Google Safety Engineering Center, Málaga, España",
+      "mode": "presencial",
+      "organizer": "Yes We Tech",
+      "official_url": "https://www.yeswetech.org/eventos/taller-ywt-soc-cadet/",
+      "scope": "espana",
+      "event_type": "taller",
+      "language": "es",
+      "verified_at": "2026-11-19T09:11:31+01:00"
+    },
+    {
       "id": "european-prize-women-innovators-2027-eic-eit",
       "name": "European Prize for Women Innovators 2027",
       "start_date": "2026-09-02",
@@ -360,6 +345,21 @@
       "event_type": "premio",
       "language": "en",
       "verified_at": "2026-11-16T09:10:00+01:00"
+    },
+    {
+      "id": "iii-junteras-yes-we-tech-malaga-2026-12-03",
+      "name": "III Junteras YWT",
+      "start_date": "2026-12-03",
+      "end_date": "2026-12-03",
+      "deadline": null,
+      "location": "42 Málaga Fundación Telefónica, Málaga, España",
+      "mode": "presencial",
+      "organizer": "Yes We Tech",
+      "official_url": "https://www.yeswetech.org/eventos/iii-junteras-ywt/",
+      "scope": "espana",
+      "event_type": "otro",
+      "language": "es",
+      "verified_at": "2026-11-19T09:11:31+01:00"
     },
     {
       "id": "n8n-automateher-barcelona-2026",
