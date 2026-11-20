@@ -1,66 +1,6 @@
 {
-  "updated_at": "2026-11-19T09:11:31+01:00",
+  "updated_at": "2026-11-20T09:10:02+01:00",
   "events": [
-    {
-      "id": "ciencia-tecnologia-femenino-espaitec-2026",
-      "name": "9ª edición Ciencia y Tecnología en Femenino",
-      "start_date": "2026-11-19",
-      "end_date": "2026-11-19",
-      "deadline": null,
-      "location": "Espaitec, Universitat Jaume I, Castellón de la Plana, España",
-      "mode": "presencial",
-      "organizer": "Espaitec y Asociación de Parques Científicos y Tecnológicos de España",
-      "official_url": "https://espaitec.uji.es/eventos/9a-edicion-ciencia-y-tecnologia-en-femenino/",
-      "scope": "espana",
-      "event_type": "jornada",
-      "language": "es",
-      "verified_at": "2026-11-16T09:10:00+01:00"
-    },
-    {
-      "id": "claude-linkedin-workshop-cowork-barcelona-2026",
-      "name": "Barcelona | (Women in Tech) Workshop & Cowork - Claude for LinkedIn",
-      "start_date": "2026-11-19",
-      "end_date": "2026-11-19",
-      "deadline": null,
-      "location": "Barcelona, Catalunya, España",
-      "mode": "presencial",
-      "organizer": "Claude Community Events",
-      "official_url": "https://luma.com/claude-2ugt",
-      "scope": "catalunya",
-      "event_type": "taller",
-      "language": "en",
-      "verified_at": "2026-11-16T09:10:00+01:00"
-    },
-    {
-      "id": "emlhis-campus-42-barcelona-stem-2026",
-      "name": "EMLHIS Mujeres STEM · Campus 42 Barcelona",
-      "start_date": "2026-11-19",
-      "end_date": "2026-11-19",
-      "deadline": null,
-      "location": "42 Barcelona, Barcelona, Catalunya, España",
-      "mode": "presencial",
-      "organizer": "Encuentros de Mujeres Líderes Hispanas (EMLHIS)",
-      "official_url": "https://mujereslidereshispanas.com/encuentros/",
-      "scope": "catalunya",
-      "event_type": "taller",
-      "language": "es",
-      "verified_at": "2026-11-16T09:10:00+01:00"
-    },
-    {
-      "id": "women-of-saas-barcelona-hub-opening-2026",
-      "name": "Women of SaaS Barcelona – Hub Opening Event",
-      "start_date": "2026-11-19",
-      "end_date": "2026-11-19",
-      "deadline": null,
-      "location": "Spoki office, Barcelona, Catalunya, España",
-      "mode": "presencial",
-      "organizer": "Women of SaaS",
-      "official_url": "https://luma.com/wzo6zt5t",
-      "scope": "catalunya",
-      "event_type": "otro",
-      "language": "en",
-      "verified_at": "2026-11-16T09:10:00+01:00"
-    },
     {
       "id": "mujeres-talento-ia-femcoders-barcelona-2026-11-20",
       "name": "Mujeres, talento e IA // Women, Talent and AI",
@@ -572,6 +512,21 @@
       "verified_at": "2026-11-14T09:10:00+01:00"
     },
     {
+      "id": "wtsfest-london-women-in-tech-seo-2027-03-19",
+      "name": "WTSFest London 2027",
+      "start_date": "2027-03-19",
+      "end_date": "2027-03-19",
+      "deadline": null,
+      "location": "Barbican Centre, Londres, Reino Unido",
+      "mode": "presencial",
+      "organizer": "Women in Tech SEO",
+      "official_url": "https://www.womenintechseo.com/conference/london/",
+      "scope": "internacional",
+      "event_type": "congreso",
+      "language": "en",
+      "verified_at": "2026-11-20T09:10:02+01:00"
+    },
+    {
       "id": "everywoman-technology-awards-2027",
       "name": "everywoman in Technology Awards 2027",
       "start_date": "2027-03-24",
@@ -617,6 +572,21 @@
       "verified_at": "2026-11-14T09:10:00+01:00"
     },
     {
+      "id": "women-in-tech-barcelona-outgeek-2027-05-13",
+      "name": "Women in Tech Barcelona - Employer Ticket",
+      "start_date": "2027-05-13",
+      "end_date": "2027-05-13",
+      "deadline": null,
+      "location": "Barcelona, Catalunya, España (sede por confirmar)",
+      "mode": "presencial",
+      "organizer": "OutGeek Events - Teams",
+      "official_url": "https://www.eventbrite.com/e/women-in-tech-barcelona-employer-ticket-tickets-2003354899433",
+      "scope": "catalunya",
+      "event_type": "otro",
+      "language": null,
+      "verified_at": "2026-11-20T09:10:02+01:00"
+    },
+    {
       "id": "women-tech-global-conference-2027",
       "name": "Women in Tech Global Conference 2027",
       "start_date": "2027-05-18",
@@ -630,6 +600,21 @@
       "event_type": "congreso",
       "language": "en",
       "verified_at": "2026-11-14T09:10:00+01:00"
+    },
+    {
+      "id": "wtsfest-portland-women-in-tech-seo-2027-06-03",
+      "name": "WTSFest Portland",
+      "start_date": "2027-06-03",
+      "end_date": "2027-06-03",
+      "deadline": null,
+      "location": "Jupiter NEXT, Portland, Oregón, Estados Unidos",
+      "mode": "presencial",
+      "organizer": "Women in Tech SEO",
+      "official_url": "https://www.womenintechseo.com/conference/portland/",
+      "scope": "internacional",
+      "event_type": "congreso",
+      "language": null,
+      "verified_at": "2026-11-20T09:10:02+01:00"
     },
     {
       "id": "young-women-technology-conference-winnipeg-2027",
