@@ -1,21 +1,6 @@
 {
-  "updated_at": "2026-11-21T09:10:01+01:00",
+  "updated_at": "2026-11-22T09:10:01+01:00",
   "events": [
-    {
-      "id": "autodefensa-digital-feminista-tarrega-2026-11-21",
-      "name": "Taller d'autodefensa digital feminista",
-      "start_date": "2026-11-21",
-      "end_date": "2026-11-21",
-      "deadline": null,
-      "location": "Punt Òmnia gòTIC Tàrrega, Tàrrega, Catalunya, España",
-      "mode": "presencial",
-      "organizer": "Punt Òmnia gòTIC Tàrrega y Regidoria de Feminismes de l'Ajuntament de Tàrrega",
-      "official_url": "https://punttic.gencat.cat/article/tens-activitats-en-el-marc-del-dia-internacional-4",
-      "scope": "catalunya",
-      "event_type": "taller",
-      "language": "ca",
-      "verified_at": "2026-11-15T09:10:00+01:00"
-    },
     {
       "id": "wiset-international-conference-2026-iem",
       "name": "4th International Conference for Women in Science, Engineering & Technology (WiSET 2026)",
@@ -405,6 +390,21 @@
       "event_type": "congreso",
       "language": "en",
       "verified_at": "2026-11-15T09:10:00+01:00"
+    },
+    {
+      "id": "tech-intersections-2027-oakland",
+      "name": "Tech Intersections 2027",
+      "start_date": "2027-01-23",
+      "end_date": "2027-01-23",
+      "deadline": null,
+      "location": "Mills College at Northeastern University, Oakland, California, Estados Unidos",
+      "mode": "presencial",
+      "organizer": "Tech Intersections",
+      "official_url": "https://techintersections.org/",
+      "scope": "internacional",
+      "event_type": "congreso",
+      "language": "en",
+      "verified_at": "2026-11-22T09:10:01+01:00"
     },
     {
       "id": "ia-en-femenino-eurecat-mataro-2027-01-25",
