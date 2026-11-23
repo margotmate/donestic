@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T09:10:01+01:00",
+  "updated_at": "2026-11-23T09:10:05+01:00",
   "events": [
     {
       "id": "wiset-international-conference-2026-iem",
@@ -375,6 +375,21 @@
       "event_type": "jornada",
       "language": null,
       "verified_at": "2026-11-18T09:10:00+01:00"
+    },
+    {
+      "id": "women-techeu-2-eic-open-call-2026-sploro",
+      "name": "Women TechEU 2 EIC – Open Call",
+      "start_date": "2026-06-01",
+      "end_date": "2027-07-08",
+      "deadline": "2027-01-14",
+      "location": "Online (Unión Europea y países asociados a Horizonte Europa)",
+      "mode": "online",
+      "organizer": "Consorcio Women TechEU 2 EIC, coordinado por Sploro",
+      "official_url": "https://womentecheurope.eu/active-calls/",
+      "scope": "internacional",
+      "event_type": "convocatoria",
+      "language": "en",
+      "verified_at": "2026-11-23T09:10:05+01:00"
     },
     {
       "id": "grace-hopper-celebration-india-2027",
