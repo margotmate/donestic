@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23T09:10:05+01:00",
+  "updated_at": "2026-11-24T09:11:19+01:00",
   "events": [
     {
       "id": "wiset-international-conference-2026-iem",
@@ -15,21 +15,6 @@
       "event_type": "congreso",
       "language": "en",
       "verified_at": "2026-11-16T09:10:00+01:00"
-    },
-    {
-      "id": "ai-show-tell-women-tech-sheai-2-2026",
-      "name": "AI Show & Tell | Women in Tech x SheAI #2",
-      "start_date": "2026-11-23",
-      "end_date": "2026-11-23",
-      "deadline": null,
-      "location": "MIL Madrid Innovation Lab, Madrid, España",
-      "mode": "presencial",
-      "organizer": "Women in Tech Spain y SheAI Madrid",
-      "official_url": "https://luma.com/98ccfocp",
-      "scope": "espana",
-      "event_type": "jornada",
-      "language": "en",
-      "verified_at": "2026-11-15T09:10:00+01:00"
     },
     {
       "id": "digital-women-approved-2026-instituto-mas-mujeres",
@@ -228,18 +213,18 @@
     },
     {
       "id": "speed-networking-womantech-barcelona-2026-12-02",
-      "name": "Speed Networking, Find Your Next Collaborator/Mentor/Friend for Woman in Tech",
+      "name": "Online Networking for Woman in Tech (Europe)",
       "start_date": "2026-12-02",
       "end_date": "2026-12-02",
       "deadline": null,
-      "location": "Doctoralia, Barcelona, Catalunya, España",
-      "mode": "presencial",
+      "location": "Online",
+      "mode": "online",
       "organizer": "womanTech Barcelona",
       "official_url": "https://www.meetup.com/woman-in-technogy-barcelona/events/315794325/",
-      "scope": "catalunya",
+      "scope": "online",
       "event_type": "otro",
-      "language": null,
-      "verified_at": "2026-11-17T09:10:00+01:00"
+      "language": "en",
+      "verified_at": "2026-11-24T09:11:19+01:00"
     },
     {
       "id": "women-tech-ai-awards-2026-womentech-network",
@@ -375,6 +360,21 @@
       "event_type": "jornada",
       "language": null,
       "verified_at": "2026-11-18T09:10:00+01:00"
+    },
+    {
+      "id": "leading-ethical-ai-data-governance-womentech-2026-12-16",
+      "name": "Leading With Ethical AI: Why Trust Starts With Data Governance",
+      "start_date": "2026-12-16",
+      "end_date": "2026-12-16",
+      "deadline": null,
+      "location": "Online",
+      "mode": "online",
+      "organizer": "WomenTech Network y Women AI Builders",
+      "official_url": "https://www.womentech.net/en-us/events/leading-ethical-ai-why-trust-starts-data-governance-0",
+      "scope": "online",
+      "event_type": "jornada",
+      "language": "en",
+      "verified_at": "2026-11-24T09:11:19+01:00"
     },
     {
       "id": "women-techeu-2-eic-open-call-2026-sploro",
