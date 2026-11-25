@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24T09:11:19+01:00",
+  "updated_at": "2026-11-25T09:11:47+01:00",
   "events": [
     {
       "id": "wiset-international-conference-2026-iem",
@@ -30,36 +30,6 @@
       "event_type": "taller",
       "language": "ca",
       "verified_at": "2026-11-14T09:10:00+01:00"
-    },
-    {
-      "id": "tech-talk-data-products-security-wtm-barcelona-2026",
-      "name": "Tech Talk: Data Products & Data Security",
-      "start_date": "2026-11-24",
-      "end_date": "2026-11-24",
-      "deadline": null,
-      "location": "Le Wagon Barcelona, Barcelona, Catalunya, España",
-      "mode": "presencial",
-      "organizer": "Women Techmakers Barcelona y Le Wagon Barcelona",
-      "official_url": "https://luma.com/aia4z5b4",
-      "scope": "catalunya",
-      "event_type": "jornada",
-      "language": "en",
-      "verified_at": "2026-11-16T09:10:00+01:00"
-    },
-    {
-      "id": "women4aisafety-first-event-2026",
-      "name": "Women4AISafety - First Event",
-      "start_date": "2026-11-24",
-      "end_date": "2026-11-24",
-      "deadline": null,
-      "location": "Celonis SL, Madrid, España",
-      "mode": "presencial",
-      "organizer": "Women for AI Safety",
-      "official_url": "https://luma.com/w4ais-spain",
-      "scope": "espana",
-      "event_type": "jornada",
-      "language": "es",
-      "verified_at": "2026-11-15T09:10:00+01:00"
     },
     {
       "id": "codewomen-accessible-web-inclusive-journeys-2026",
@@ -332,6 +302,21 @@
       "verified_at": "2026-11-14T09:10:00+01:00"
     },
     {
+      "id": "presentacion-technovation-girls-usera-2026-power-to-code",
+      "name": "Presentación en Usera, Technovation Girls 2027",
+      "start_date": "2026-12-10",
+      "end_date": "2026-12-10",
+      "deadline": null,
+      "location": "Biblioteca Pública José Hierro, Usera, Madrid, España",
+      "mode": "presencial",
+      "organizer": "Power to code",
+      "official_url": "https://www.comunidad.madrid/actividades/2026/presentacion-usera-technovation-girls-2027",
+      "scope": "espana",
+      "event_type": "jornada",
+      "language": null,
+      "verified_at": "2026-11-25T09:11:47+01:00"
+    },
+    {
       "id": "women-techmakers-madrid-merge-generations-2026",
       "name": "Women Techmakers Madrid - Merge Generations",
       "start_date": "2026-12-11",
@@ -570,6 +555,21 @@
       "event_type": "premio",
       "language": "en",
       "verified_at": "2026-11-15T09:10:00+01:00"
+    },
+    {
+      "id": "one-tech-world-2027-wearetechwomen",
+      "name": "One Tech World 2027",
+      "start_date": "2027-04-15",
+      "end_date": "2027-04-15",
+      "deadline": null,
+      "location": "Online",
+      "mode": "online",
+      "organizer": "WeAreTechWomen",
+      "official_url": "https://wearetechwomen.com/events/one-tech-world-2027-wearetechwomen/",
+      "scope": "online",
+      "event_type": "congreso",
+      "language": null,
+      "verified_at": "2026-11-25T09:11:47+01:00"
     },
     {
       "id": "women-in-tech-global-summit-2027",
