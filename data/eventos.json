@@ -1,21 +1,6 @@
 {
-  "updated_at": "2026-11-25T09:11:47+01:00",
+  "updated_at": "2026-11-26T09:10:01+01:00",
   "events": [
-    {
-      "id": "wiset-international-conference-2026-iem",
-      "name": "4th International Conference for Women in Science, Engineering & Technology (WiSET 2026)",
-      "start_date": "2026-11-23",
-      "end_date": "2026-11-25",
-      "deadline": null,
-      "location": "Casuarina @ Meru Hotel, Ipoh, Perak, Malasia",
-      "mode": "presencial",
-      "organizer": "Institution of Engineers Malaysia y IEM Women Engineers",
-      "official_url": "https://www.myiem.org.my/news/newsdetails.aspx?id=978",
-      "scope": "internacional",
-      "event_type": "congreso",
-      "language": "en",
-      "verified_at": "2026-11-16T09:10:00+01:00"
-    },
     {
       "id": "digital-women-approved-2026-instituto-mas-mujeres",
       "name": "Formación Digital Women Approved",
@@ -30,51 +15,6 @@
       "event_type": "taller",
       "language": "ca",
       "verified_at": "2026-11-14T09:10:00+01:00"
-    },
-    {
-      "id": "codewomen-accessible-web-inclusive-journeys-2026",
-      "name": "CodeWomen+ event: Accessible Web, Inclusive Journeys at Skyscanner",
-      "start_date": "2026-11-25",
-      "end_date": "2026-11-25",
-      "deadline": null,
-      "location": "Skyscanner, Barcelona, Catalunya, España",
-      "mode": "presencial",
-      "organizer": "CodeWomen+",
-      "official_url": "https://www.eventbrite.es/e/codewomen-event-accessible-web-inclusive-journeys-at-skyscanner-tickets-2004026360792",
-      "scope": "catalunya",
-      "event_type": "taller",
-      "language": "en",
-      "verified_at": "2026-11-15T09:10:00+01:00"
-    },
-    {
-      "id": "tech-women-talk-networking-barcelona-2026",
-      "name": "Tech Women Talk & Networking",
-      "start_date": "2026-11-25",
-      "end_date": "2026-11-25",
-      "deadline": null,
-      "location": "eDreams ODIGEO, Barcelona, Catalunya, España",
-      "mode": "presencial",
-      "organizer": "TechFems, Women in Tech Barcelona y Women Techmakers Barcelona",
-      "official_url": "https://www.eventbrite.com/e/tech-women-talk-tickets-2004657809472",
-      "scope": "catalunya",
-      "event_type": "jornada",
-      "language": null,
-      "verified_at": "2026-11-15T09:10:00+01:00"
-    },
-    {
-      "id": "acte-25n-fib-algoritmes-sense-biaixos-2026",
-      "name": "Acte Institucional 25N: Algoritmes sense Biaixos, Imatges sense Violència",
-      "start_date": "2026-11-25",
-      "end_date": "2026-11-25",
-      "deadline": null,
-      "location": "Campus Nord de la UPC, Barcelona, Catalunya, España",
-      "mode": "presencial",
-      "organizer": "Facultat d'Informàtica de Barcelona, DeFIB, donesCOEINF y Barcelona ACM-W Chapter",
-      "official_url": "https://www.fib.upc.edu/ca/noticies/lacte-institucional-25n-la-fib-estara-centrat-en-la-lluita-contra-els-biaixos-algoritmics-i-les-deepfakes",
-      "scope": "catalunya",
-      "event_type": "jornada",
-      "language": null,
-      "verified_at": "2026-11-21T09:10:01+01:00"
     },
     {
       "id": "step4ward-madrid-girls-tech-beers-2026",
@@ -137,6 +77,21 @@
       "verified_at": "2026-11-19T09:11:31+01:00"
     },
     {
+      "id": "women-in-agile-europe-barcelona-2026-11-27",
+      "name": "Women in Agile Europe 2026",
+      "start_date": "2026-11-27",
+      "end_date": "2026-11-27",
+      "deadline": null,
+      "language": null,
+      "verified_at": "2026-11-26T09:10:01+01:00",
+      "location": "Hotel SB Plaza Europa, L'Hospitalet de Llobregat, Catalunya, España",
+      "mode": "presencial",
+      "organizer": "Women in Agile Europe",
+      "official_url": "https://womeninagile.eu/",
+      "scope": "catalunya",
+      "event_type": "congreso"
+    },
+    {
       "id": "european-prize-women-innovators-2027-eic-eit",
       "name": "European Prize for Women Innovators 2027",
       "start_date": "2026-09-02",
@@ -167,6 +122,21 @@
       "verified_at": "2026-11-17T09:10:00+01:00"
     },
     {
+      "id": "pioneras-futuro-fundacion-telefonica-2026-12-01",
+      "name": "Pioneras del Futuro: ciencia, tecnología e innovación",
+      "start_date": "2026-12-01",
+      "end_date": "2026-12-01",
+      "deadline": null,
+      "language": null,
+      "verified_at": "2026-11-26T09:10:01+01:00",
+      "location": "Espacio Fundación Telefónica, Madrid, España",
+      "mode": "presencial",
+      "organizer": "Espacio Fundación Telefónica y Embajada de Suecia en España",
+      "official_url": "https://espacio.fundaciontelefonica.com/evento/pioneras-del-futuro-ciencia-tecnologia-e-innovacion/",
+      "scope": "espana",
+      "event_type": "jornada"
+    },
+    {
       "id": "spec-shift-self-salesforce-barcelona-2026-12-02",
       "name": "Spec, Shift & Self: Building, Changing and Believing in the AI Era",
       "start_date": "2026-12-02",
@@ -195,6 +165,21 @@
       "event_type": "otro",
       "language": "en",
       "verified_at": "2026-11-24T09:11:19+01:00"
+    },
+    {
+      "id": "edtech-x-women-edutech-cluster-2026-12-02",
+      "name": "EdTech X Women",
+      "start_date": "2026-12-02",
+      "end_date": "2026-12-02",
+      "deadline": null,
+      "language": null,
+      "verified_at": "2026-11-26T09:10:01+01:00",
+      "location": "Espai Lidera, Barcelona, Catalunya, España y online",
+      "mode": "híbrido",
+      "organizer": "EduTech Cluster",
+      "official_url": "https://edutechcluster.org/eventos/edtech-x-women/",
+      "scope": "catalunya",
+      "event_type": "jornada"
     },
     {
       "id": "women-tech-ai-awards-2026-womentech-network",
