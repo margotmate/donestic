@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26T09:10:01+01:00",
+  "updated_at": "2026-11-27T09:10:03+01:00",
   "events": [
     {
       "id": "digital-women-approved-2026-instituto-mas-mujeres",
@@ -17,21 +17,6 @@
       "verified_at": "2026-11-14T09:10:00+01:00"
     },
     {
-      "id": "step4ward-madrid-girls-tech-beers-2026",
-      "name": "Step4ward Madrid: Girls, Tech and Beers",
-      "start_date": "2026-11-26",
-      "end_date": "2026-11-26",
-      "deadline": null,
-      "location": "Montreal, Madrid, España",
-      "mode": "presencial",
-      "organizer": "Mentoras Step4ward",
-      "official_url": "https://www.eventbrite.es/e/step4ward-madrid-girls-tech-and-beers-no-vuelvas-a-ir-sola-a-un-evento-tickets-2004071287168",
-      "scope": "espana",
-      "event_type": "otro",
-      "language": "es",
-      "verified_at": "2026-11-15T09:10:00+01:00"
-    },
-    {
       "id": "women-in-it-day-2026-future-collars",
       "name": "Women in IT Day 2026",
       "start_date": "2026-11-26",
@@ -45,21 +30,6 @@
       "event_type": "congreso",
       "language": "en",
       "verified_at": "2026-11-14T09:10:00+01:00"
-    },
-    {
-      "id": "women-tech-excellence-awards-2026",
-      "name": "Women in Tech Excellence Awards 2026",
-      "start_date": "2026-11-26",
-      "end_date": "2026-11-26",
-      "deadline": null,
-      "location": "London Hilton on Park Lane, Londres, Reino Unido",
-      "mode": "presencial",
-      "organizer": "The Channel Company",
-      "official_url": "https://womenintechexcellence.co.uk/womenintechexcellenceawards/en/page/on-the-night",
-      "scope": "internacional",
-      "event_type": "premio",
-      "language": "en",
-      "verified_at": "2026-11-16T09:10:00+01:00"
     },
     {
       "id": "soc-cadet-yes-we-tech-malaga-2026-11-27",
