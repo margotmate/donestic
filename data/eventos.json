@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27T09:10:03+01:00",
+  "updated_at": "2026-11-28T09:11:06+01:00",
   "events": [
     {
       "id": "digital-women-approved-2026-instituto-mas-mujeres",
@@ -15,51 +15,6 @@
       "event_type": "taller",
       "language": "ca",
       "verified_at": "2026-11-14T09:10:00+01:00"
-    },
-    {
-      "id": "women-in-it-day-2026-future-collars",
-      "name": "Women in IT Day 2026",
-      "start_date": "2026-11-26",
-      "end_date": "2026-11-27",
-      "deadline": null,
-      "location": "Online",
-      "mode": "online",
-      "organizer": "Future Collars",
-      "official_url": "https://womeninitday.com/",
-      "scope": "online",
-      "event_type": "congreso",
-      "language": "en",
-      "verified_at": "2026-11-14T09:10:00+01:00"
-    },
-    {
-      "id": "soc-cadet-yes-we-tech-malaga-2026-11-27",
-      "name": "Taller YWT - SOC Cadet: tu primera alerta en ciberseguridad",
-      "start_date": "2026-11-27",
-      "end_date": "2026-11-27",
-      "deadline": null,
-      "location": "Google Safety Engineering Center, Málaga, España",
-      "mode": "presencial",
-      "organizer": "Yes We Tech",
-      "official_url": "https://www.yeswetech.org/eventos/taller-ywt-soc-cadet/",
-      "scope": "espana",
-      "event_type": "taller",
-      "language": "es",
-      "verified_at": "2026-11-19T09:11:31+01:00"
-    },
-    {
-      "id": "women-in-agile-europe-barcelona-2026-11-27",
-      "name": "Women in Agile Europe 2026",
-      "start_date": "2026-11-27",
-      "end_date": "2026-11-27",
-      "deadline": null,
-      "language": null,
-      "verified_at": "2026-11-26T09:10:01+01:00",
-      "location": "Hotel SB Plaza Europa, L'Hospitalet de Llobregat, Catalunya, España",
-      "mode": "presencial",
-      "organizer": "Women in Agile Europe",
-      "official_url": "https://womeninagile.eu/",
-      "scope": "catalunya",
-      "event_type": "congreso"
     },
     {
       "id": "european-prize-women-innovators-2027-eic-eit",
@@ -422,6 +377,21 @@
       "verified_at": "2026-11-14T09:10:00+01:00"
     },
     {
+      "id": "harvard-wecode-conference-2027-harvard",
+      "name": "Harvard Women Engineers Code (WECode) 2027 Conference",
+      "start_date": "2027-02-19",
+      "end_date": "2027-02-20",
+      "deadline": null,
+      "location": "David Rubenstein Treehouse, Harvard University, Boston, Massachusetts, Estados Unidos",
+      "mode": "presencial",
+      "organizer": "Harvard WECode",
+      "official_url": "https://www.eventbrite.com/e/harvard-women-engineers-code-wecode-2027-conference-tickets-2002896612685",
+      "scope": "internacional",
+      "event_type": "congreso",
+      "language": null,
+      "verified_at": "2026-11-28T09:11:06+01:00"
+    },
+    {
       "id": "women-in-tech-fest-sydney-2027",
       "name": "Women in Tech Fest 2027",
       "start_date": "2027-02-23",
@@ -435,6 +405,36 @@
       "event_type": "congreso",
       "language": "en",
       "verified_at": "2026-11-16T09:10:00+01:00"
+    },
+    {
+      "id": "women-tech-leaders-summit-2027-london-tech-leaders",
+      "name": "Women+ Tech Leaders Summit 2027",
+      "start_date": "2027-02-24",
+      "end_date": "2027-02-24",
+      "deadline": null,
+      "location": "White Rabbit Studios, Londres, Reino Unido",
+      "mode": "presencial",
+      "organizer": "London Tech Leaders",
+      "official_url": "https://londontechleaders.io/summits/women-tech-leaders-summit-2027/",
+      "scope": "internacional",
+      "event_type": "congreso",
+      "language": null,
+      "verified_at": "2026-11-28T09:11:06+01:00"
+    },
+    {
+      "id": "ocwic-2027-ohio-celebration-women-computing",
+      "name": "OCWiC 2027 - Ohio Celebration of Women in Computing",
+      "start_date": "2027-02-26",
+      "end_date": "2027-02-27",
+      "deadline": null,
+      "location": "Sawmill Creek Resort, Huron, Ohio, Estados Unidos",
+      "mode": "presencial",
+      "organizer": "OCWiC ACM-W Professional Chapter",
+      "official_url": "https://ocwic.org/ocwic-2027/",
+      "scope": "internacional",
+      "event_type": "congreso",
+      "language": null,
+      "verified_at": "2026-11-28T09:11:06+01:00"
     },
     {
       "id": "catalonia-femhack-2027-mwcapital",
